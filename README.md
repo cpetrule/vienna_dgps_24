@@ -14,3 +14,4 @@ Burgard, T.¹, Petrule, C.¹, Jung, N.², Heck, T.²
 
 Supplementary Material for the poster presented at the 53rd DGPs Congress/15th ÖGP Conference in Vienna in September 2024.
 
+Correspondence: tb(at)leibniz-psychology.org
