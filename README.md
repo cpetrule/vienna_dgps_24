@@ -4,6 +4,7 @@ Towards FAIRer Data (Poster)
 Tailored Guidelines for Enhanced Reproducibility of Research Syntheses in Psychology and Education.
 
 Burgard, T.¹, Petrule, C.¹, Jung, N.², Heck, T.²
+
 ¹ Leibniz Institute for Psychology (ZPID)
 ² Leibniz Institute for Research and Information in Education (DIPF)	
 
